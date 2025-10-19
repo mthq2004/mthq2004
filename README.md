@@ -99,7 +99,7 @@
 <br>
 <div align="center">
   <a href="https://github.com/haiquan">
-    <img src="https://github-readme-activity-graph.vercel.app/api?username=haiquan&theme=react&border_color=61dafb&hide_border=true&color=ffffff&line=61dafb&point=61dafb&area=true&area_color=20232a" alt="GitHub Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/api?username=mthq2004&theme=react&border_color=61dafb&hide_border=true&color=ffffff&line=61dafb&point=61dafb&area=true&area_color=20232a" alt="GitHub Activity Graph" />
   </a>
 </div>
 <br>
