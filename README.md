@@ -57,7 +57,7 @@
   <a href="https://www.facebook.com/hai.quan.580161/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="haiquan-facebook" />
   </a>
-  <a href="www.linkedin.com/in/hải-quân-8a26b3288" target="blank">
+  <a href="https://www.linkedin.com/in/h%E1%BA%A3i-qu%C3%A2n-8a26b3288/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="haiquan-linkedin" />
   </a>
   <a href="https://www.instagram.com/vel.nos_/" target="blank">
