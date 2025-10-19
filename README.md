@@ -2,7 +2,7 @@
   Xin chào! 👋
 </h1>
 <p align="center">
-  <em>Mô tả ngắn về bạn, ví dụ: Lập trình viên Full-Stack đam mê xây dựng các ứng dụng web...</em>
+  <em>Lập trình viên hài hước trái tim đầy mong ước 🤣</em>
 </p>
 
 <h2 align="center">🌐 Kết nối với tôi</h2>
