@@ -1,6 +1,6 @@
-<!-- Trungquandev -->
+<!-- HaiQuan dev -->
 <a href="#" target="_blank">
-  <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
+  <img src="svg/haiquandev.svg" width="1200" alt="trungquandev-official" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
@@ -82,4 +82,24 @@
 
 <br>
 
-<h2 align="center">📖 My main course: [FULL STACK] MERN ADVANCED 📖</h2>
+<h2 align="center">🚀 My Featured Projects 🚀</h2>
+<br>
+<div align="center">
+  <a href="https://github.com/haiquan/REPO_NAME_1" title="Project Name 1">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=haiquan&repo=REPO_NAME_1&theme=react&border_color=61dafb&hide_border=true&rank_icon=github" />
+  </a>
+  &nbsp; &nbsp; &nbsp;
+  <a href="https://github.com/haiquan/REPO_NAME_2" title="Project Name 2">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=haiquan&repo=REPO_NAME_2&theme=react&border_color=61dafb&hide_border=true&rank_icon=github" />
+  </a>
+</div>
+<br>
+
+<h2 align="center">📊 My GitHub Activity 📊</h2>
+<br>
+<div align="center">
+  <a href="https://github.com/haiquan">
+    <img src="https://github-readme-activity-graph.vercel.app/api?username=haiquan&theme=react&border_color=61dafb&hide_border=true&color=ffffff&line=61dafb&point=61dafb&area=true&area_color=20232a" alt="GitHub Activity Graph" />
+  </a>
+</div>
+<br>
