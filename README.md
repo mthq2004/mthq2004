@@ -16,7 +16,7 @@
   <a href="https://www.instagram.com/vel.nos_/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://linkedin.com/in/www.linkedin.com/in/hải-quân-8a26b3288">
+  <a href="https://www.linkedin.com/in/hải-quân-8a26b3288">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:maithanhhaiquan2004@gmail.com">
