@@ -10,10 +10,10 @@
   <a href="https://discord.com/users/haiwuan">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="https://facebook.com/https://www.facebook.com/hai.quan.580161/">
+  <a href="https://www.facebook.com/hai.quan.580161/">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://instagram.com/https://www.instagram.com/vel.nos_/">
+  <a href="https://www.instagram.com/vel.nos_/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://linkedin.com/in/www.linkedin.com/in/hải-quân-8a26b3288">
